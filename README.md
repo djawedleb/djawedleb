@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Djouad Lebaili
 
-**Junior Mern Stack Developer | Software Engineering Graduate 
+Junior Mern Stack Developer | Software Engineering Graduate 
 
 📍 Constantine, Algeria | 📧 Djawedlebaili156@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/djawed-leb)
 
@@ -59,29 +59,6 @@ I'm a passionate **Junior Full-Stack Developer** with expertise in backend devel
 
 ---
 
-## 🌟 Featured Projects
-
-### 🌿 SmartAgri IoT - Intelligent Greenhouse Management System
-**Tech Stack:** React Native, Express.js, MongoDB, IoT, AI Integration
-- Complete IoT ecosystem for smart agriculture
-- Real-time monitoring and disease detection through computer vision
-- Weather-based recommendations system
-- **30% reduction** in estimated maintenance costs
-
-### 🎯 Full-Stack Applications Portfolio
-**Tech Stack:** Node.js, Express.js, MongoDB, JWT
-- URL shortening service with analytics
-- Event management system with CRUD operations
-- Restaurant management system with advanced features
-- RESTful APIs with JWT authentication and data validation
-
-### 🖼️ Image Classification System
-**Tech Stack:** Java, Machine Learning
-- Advanced image recognition and classification
-- Optimized algorithms for accurate results
-
----
-
 ## 💼 Professional Experience
 
 **Backend Developer Intern** | CodeAlpha | June 2025 - Present
@@ -95,7 +72,7 @@ I'm a passionate **Junior Full-Stack Developer** with expertise in backend devel
 ## 🎯 What I'm Working On
 
 - 🔧 Building scalable backend systems with microservices
-- 📱 Developing cross-platform mobile applications
+- 📱 Developing cross-platform mobile/web applications
 - 🤖 Exploring AI integration in web applications
 - 🌐 Contributing to open-source projects
 
