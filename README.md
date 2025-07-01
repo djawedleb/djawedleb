@@ -2,7 +2,7 @@
 
 Mern Stack Developer | Software Engineering Graduate 
 
-📍 Constantine, Algeria | 📧 Djawedlebaili156@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/djawed-leb)
+📍 Constantine, Algeria | 📧 Djawedlebaili156@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/djawed-leb) | 🌐[Portfolio](djawedleb-portfolio.vercel.app)
 
 ---
 
