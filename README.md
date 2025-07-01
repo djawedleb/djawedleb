@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Djouad Lebaili
 
-Junior Mern Stack Developer | Software Engineering Graduate 
+Mern Stack Developer | Software Engineering Graduate 
 
 📍 Constantine, Algeria | 📧 Djawedlebaili156@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/djawed-leb)
 
