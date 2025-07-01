@@ -8,9 +8,9 @@ Mern Stack Developer | Software Engineering Graduate
 
 ## 🚀 About Me
 
-I'm a passionate **Junior Full-Stack Developer** with expertise in backend development, mobile applications, and IoT technologies. I enjoy building complete solutions and leading technical projects that solve real-world problems.
+I'm a passionate ** Full-Stack Developer** with expertise in backend development, mobile applications, and IoT technologies. I enjoy building complete solutions and leading technical projects that solve real-world problems.
 
-- 🎓 **Software Engineering Graduate** with **Très-Bien** distinction
+- 🎓 **Software Engineering Graduate** with Honor
 - 💼 Currently working as **Backend Developer Intern** at CodeAlpha
 - 🌱 Constantly learning and exploring new technologies
 - 🔭 Interested in **IoT**, **AI integration**, and **microservices architecture**
@@ -47,17 +47,6 @@ I'm a passionate **Junior Full-Stack Developer** with expertise in backend devel
 
 ---
 
-
-
-## 💼 Professional Experience
-
-**Backend Developer Intern** | CodeAlpha | June 2025 - Present
-- Developed 3 full-stack applications using microservices architecture
-- Built RESTful APIs with MongoDB integration
-- Implemented JWT authentication and advanced data validation
-- Collaborated in agile environment with iterative development cycles
-
----
 
 ## 🎯 What I'm Working On
 
