@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Djouad Lebaili
 
-Mern Stack Developer | Software Engineering Graduate 
+Software Developer
 
 📍 Constantine, Algeria | 📧 Djawedlebaili156@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/djawed-leb) | 🌐 [Portfolio](https://djawedleb-portfolio.vercel.app/)
 
@@ -11,7 +11,6 @@ Mern Stack Developer | Software Engineering Graduate
 I'm a passionate ** Full-Stack Developer** with expertise in backend development, mobile applications, and IoT technologies. I enjoy building complete solutions and leading technical projects that solve real-world problems.
 
 - 🎓 **Software Engineering Graduate** with Honor
-- 💼 Currently working as **Backend Developer Intern** at CodeAlpha
 - 🌱 Constantly learning and exploring new technologies
 - 🔭 Interested in **IoT**, **AI integration**, and **microservices architecture**
 
